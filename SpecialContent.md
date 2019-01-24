@@ -1,7 +1,4 @@
 # Special content master branch
 
-Some text
+changing the content in the master
 
-and some more
-
-Master
