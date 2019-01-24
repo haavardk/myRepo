@@ -1,7 +1,3 @@
 # Special content master branch
 
-Some text
-
-and some more
-
-Master
+myRepo wants this master head
